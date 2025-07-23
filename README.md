@@ -38,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" width="40" height="40" />
-    <img src="https://cdn.worldvectorlogo.com/logos/apache-kafka.svg" alt="Apache Kafka" width="40" height="40" />
+<!--     <img src="https://cdn.worldvectorlogo.com/logos/apache-kafka.svg" alt="Apache Kafka" width="40" height="40" /> -->
   </td>
   <td>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
